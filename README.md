@@ -60,7 +60,7 @@
  - 백엔드 API 명세: https://www.notion.so/elice/BE-AI-API-c0617af96d5d477ba483e9d8914d24b1?pvs=4
 
 ### AI
- - 상세 내용은 <a href="https://github.com/JungHoon0814/DearJ/blob/master/AiModel.md">AI Repository</a> 참고
+ - 상세 내용은 <a href="https://github.com/JungHoon0814/DearJ/blob/master/AiModel.md">Ai Model.md파일</a> 참고
 
 ## 기술 스택
   - :heavy_check_mark: **Front-End** : <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white">  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white%#5A29E4"> <img src="https://img.shields.io/badge/-emotion-D26AC2?style=flat-square&logo=emotion&logoColor=white"> <img src="https://img.shields.io/badge/Recoil-0078D4?style=flat-square&logo=Recoil&logoColor=white">
